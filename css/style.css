@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: gray;
+}
+
+#countDown {
+    color: rgb(224, 173, 44);
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #444;
+}
